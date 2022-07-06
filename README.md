@@ -17,7 +17,7 @@ For cloning using git cli:
 ```
 OR just open the notebook in Google Colab directly
 
-![Google Colab](images/google_colab.png)
+![Google Colab](images/open_in_colab.png)
 
 ## Results
 
