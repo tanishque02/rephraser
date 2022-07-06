@@ -17,3 +17,15 @@ For cloning using git cli:
 ```
 OR just open the notebook in Google Colab directly
 
+![Google Colab](images/google_colab.png)
+
+## Results
+
+Model Result:
+![Model Result](images/model_result.png)
+
+Quillbot Result:
+![Quillbot Result](images/quillbot_results.png)
+
+Snipbot Result:
+![Snipbot Result](images/snipbot_results.png)
